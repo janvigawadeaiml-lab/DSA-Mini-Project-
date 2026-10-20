@@ -1,0 +1,6 @@
+{
+  "name": "TactixAI - Decision Tree Game Engine",
+  "description": "Autonomous Game AI Engine for Checkers & Chess featuring Minimax Decision Trees, Alpha-Beta Pruning, Bitboards, and Zobrist Hashing Transposition Tables.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
